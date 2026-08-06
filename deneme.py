@@ -24,3 +24,4 @@ print(list)
 #asdfasldşjfkn as
 
 muhammernasldfnalsf yazı aşldsnflasjdnf 
+asdffg
