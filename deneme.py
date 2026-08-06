@@ -19,9 +19,4 @@ for i in range(1,len(list)):
     list[i-1] = list[-i]
     list[-1] = tut
 print(list)
-
-
-#asdfasldşjfkn as
-
-muhammernasldfnalsf yazı aşldsnflasjdnf 
-asdffg
+yaşkansdlşfnasf
