@@ -20,3 +20,4 @@ for i in range(1,len(list)):
     list[-1] = tut
 print(list)
 
+muhammernasldfnalsf yazı aşldsnflasjdnf

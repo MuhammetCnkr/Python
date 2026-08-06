@@ -1,5 +1,11 @@
 {
+    "window.newWindowProfile": "Default",
+    "workbench.editor.empty.hint": "hidden",
     "git.autofetch": "all",
     "git.autofetchPeriod": 10,
-    "gitdoc.enabled": true
+    "files.autoSave": "afterDelay",
+    "git.enableSmartCommit": true,
+    "gitdoc.enabled": false,
+    "gitdoc.autoPush": "onSave",
+    "gitdoc.commitValidationLevel": "none",
 }
