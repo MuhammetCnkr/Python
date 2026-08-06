@@ -5,7 +5,9 @@
     "git.autofetchPeriod": 10,
     "files.autoSave": "afterDelay",
     "git.enableSmartCommit": true,
-    "gitdoc.enabled": false,
+    "gitdoc.enabled": true,
     "gitdoc.autoPush": "onSave",
     "gitdoc.commitValidationLevel": "none",
+    "gitdoc.autoPullDelay": 3000,
+    "gitdoc.autoPushDelay": 3000,
 }
