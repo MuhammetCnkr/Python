@@ -159,3 +159,5 @@ response.raise_for_status() #used to automatically throw an exception if an HTTP
 
 #STYLE:
 # * PEP8 python için belirlenen bir style denilebilir
+
+
