@@ -17,7 +17,7 @@ if x < y: #burada fark ettiysen paarantez kullanılmadı
 #if doğru ise direkt stop. elif doğru ise direkt stop. else ifadesinde soru sormaz eğer bunun ikiside yanlış ise kesin bu durum kaldı ve bu olacak durumlarda kullanılır o da doğru olmak zorunda kaldı artık.
 
 
-#! if 90 <= score <= 100: == if score >= 90 and score <= 100: #bunlar aynı anlama geliyor bunu kullanabilirsin
+# * if 90 <= score <= 100: == if score >= 90 and score <= 100: #bunlar aynı anlama geliyor bunu kullanabilirsin
 
 """ Kendime not:
 Case 1: main(function()) - main() - function() => böyle bir durumda hata alırsın python main() kısmına kadar gelir ve burayı okuduktan sonra

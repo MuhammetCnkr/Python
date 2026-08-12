@@ -15,9 +15,9 @@ def answer(n1,operation,n2):
         case "*":
             return n1 * n2
         case "/":
-             return n1 / n2
+            return n1 / n2
         case "%":
-             return n1 % n2
+            return n1 % n2
         case _:
             return "Hatalı işlem"
 
