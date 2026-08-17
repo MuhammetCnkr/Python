@@ -28,8 +28,8 @@ random.seed(0) #hep aynı sonucu gösterecek artık o sayıyı sabitledik
 #bununla senin sistem saatine bağlı olarak değişen rastgelelikte hesaplamada kullanılan sayıyı ayarlayabilirsin.
 
 
-#from: bu pythonda libraries import etmek icin kullanilir. from ile sadece belirli bir methodu import edebiliriz.
-from random import choice #sadece choice methodunu import ettik. random yazmaya gerek yok.
+#from: bu pythonda libraries import etmek icin kullanilir. from ile sadece belirli bir functionı import edersin.
+from random import choice #sadece choice fonksiyonunu import ettik. random yazmaya gerek yok.
 coin = choice(["heads","tails"]) #random dan sadece choice import edildiği için başa random yazman gerekmiyor.
 print(coin)
 
