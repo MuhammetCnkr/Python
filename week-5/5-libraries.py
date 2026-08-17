@@ -47,7 +47,7 @@ random.shuffle(cards) #random.shuffle(list) methodu verilen listeyi rastgele kar
 print(cards) #illa asingment yapmak zorunda değilsin. random.shuffle() methodu listeyi direkt olarak değiştirir.
 
 
-import statistics #statistics library import edildi. statistics.mean() methodu ve diğerleri kullanılabilir.
+import statistics #statistics library import edildi. statistics.mean() fonskiyonu ve diğerleri kullanılabilir.
 grades = [90, 80, 70, 60, 50]
 mean = statistics.mean(grades) #statistics.mean(list) methodu verilen listenin ortalamasını hesaplar.
 print(mean)
