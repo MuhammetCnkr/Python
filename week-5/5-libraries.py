@@ -54,8 +54,8 @@ print(mean)
 
 
 import sys
-print("hello, ",sys.argv[1]) #burada sys library argv modülü sayesinde cli'da python name.py Muhammet yazarsan
-#1. indeks olan Muhammet kısmını alır 0. indes ise dosya adıdır
+print("hello, ",sys.argv[1]) #burada sys library argv fonksiyonu sayesinde cli'da python name.py Muhammet yazarsan
+#1. indeks olan Muhammet kısmını alır 0. indes ise dosya adıdır ("name.py")
 
 
 if len(sys.argv) < 2:
@@ -64,7 +64,7 @@ elif len(sys.argv) > 2:
     print("Too many arguments")
 else:
     print(sys.argv[1])
-#python name.py "Muhammet Çınkır" #burada "" içindeki iafdeyi listenin bir elemanı olarak alıgılayacak yani indeks 1
+#python name.py "Muhammet Çınkır" #burada "" içindeki ifadeyi listenin bir elemanı olarak alıgılayacak yani indeks 1
 
 
 #burada sys.exit print yapar var cli'dan çıkış yapar ondan sonraki kod satırları işlenmez
