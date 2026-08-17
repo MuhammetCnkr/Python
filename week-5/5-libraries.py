@@ -5,7 +5,8 @@
 
 lists = ["adana","maraş","hatay"]
 
-import random #tüm random library import edildi.  random.choice() methodu ve diğerleri kullanılabilir.
+import random #tüm random library import edildi. Bunun sayesinde random içinde olan tüm fonskiyonları kullanabilirsin.
+#random.choice() methodu ve diğerleri kullanılabilir.
 coin = random.choice(["heads","tails"])# * random.choice() methodu verilen listeden rastgele 'bir' eleman seçer.
 print(coin)
 
