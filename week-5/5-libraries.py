@@ -1,6 +1,6 @@
 #what are modules and libraries in python?
 #Modules are files containing Python code. A module can define functions, classes, and variables.
-#A library " Package" is a collection of modules that provide specific functionality.
+#A library "Package" is a collection of modules that provide specific functionality.
 #import: bu pythonda libraries import etmek icin kullanilir.
 
 lists = ["adana","maraş","hatay"]
