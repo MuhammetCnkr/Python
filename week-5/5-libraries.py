@@ -12,10 +12,10 @@ print(coin)
 
 coin = random.choices(["heads","tails","muhammet"], k=2)
 # * yukarıdaki kullanımda k=2 yazarak bana rastgele iki adet listeden eleman seç demiş olursun.
-# * burada choices kullnaımda k=2 yaptığın zaman aynı şeyleri seçebilir. ["heads", "tails"] gibi
+# * burada choices kullanımda k=2 yaptığın zaman aynı şeyleri seçebilir. ["heads", "heads"] gibi
 
 coin = random.sample(["heads","tails","muhammet"], k=2)
-# ? yukarıda ise sample ile aynı iki elemanın gelemesini engelledik choices'dan farklı olarak
+# * yukarıda ise sample ile aynı iki elemanın gelmesini engelledik choices'dan farklı olarak
 
 
 choice = random.choices(lists, weights=[100, 0, 0], k=2)
